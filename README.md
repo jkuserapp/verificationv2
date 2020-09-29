@@ -1,4 +1,5 @@
 # Weryfikacja v2
+Zanim przejdzesz dalej pobierz zipa
 Jak zainstalować?
 Skopiuj plik html i php na strone
 w pliku html nie usuwaj <!---cokolwiek--->
